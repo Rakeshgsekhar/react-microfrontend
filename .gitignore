@@ -1,0 +1,10 @@
+/mfa-application-frontend/node_modules
+/mfa-common-frontend/node_modules
+/mfa-application-frontend/yarn.lock
+/mfa-common-frontend/yarn.lock
+/mfa-application-frontend/dist
+/mfa-common-frontend/dist
+/mfa-application-frontend/applications/**/dist
+/mfa-common-frontend/applications/**/dist
+/mfa-application-frontend/applications/**/node_modules
+/mfa-common-frontend/applications/**/node_modules
