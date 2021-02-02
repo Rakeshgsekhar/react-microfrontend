@@ -1,4 +1,6 @@
-First up the screen application, goto mfa-application-frontend and run:
+Run yarn install
+
+Up the screen application, goto mfa-application-frontend and run:
 lerna run dev --parallel --stream
 
 Then, up the navbar in mfa-common-frontend, goto mfa-common-frontend and run:
